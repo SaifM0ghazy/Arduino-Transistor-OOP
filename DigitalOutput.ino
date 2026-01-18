@@ -47,7 +47,6 @@ public:
   
     void toggle( void ) {
 		isActive ? off() : on();
-        return;
     }
   
 };
@@ -68,4 +67,5 @@ void setup() {
 void loop() {
 	
 }
+
 

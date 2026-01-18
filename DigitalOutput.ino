@@ -1,4 +1,3 @@
-
 class DigitalOutput {
 private:
 	byte pin;
@@ -69,3 +68,4 @@ void setup() {
 void loop() {
 	
 }
+

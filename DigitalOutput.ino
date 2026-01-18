@@ -57,15 +57,15 @@ DigitalOutput pnpTransistor( 4 , false );
 DigitalOutput npnTransistor( 11 );
 
 void setup() {
-  	Serial.begin(9600);
+  	
 	pnpTransistor.begin();
   	npnTransistor.begin();
   
   	npnTransistor.on();
   	pnpTransistor.on();
+	
 }
 
 void loop() {
-
-
+	
 }

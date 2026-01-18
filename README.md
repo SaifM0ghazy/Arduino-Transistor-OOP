@@ -33,5 +33,6 @@ The following defines two transistors: one PNP (Active Low) and one NPN (Active 
 DigitalOutput pnpTransistor(4, false);  // PNP (Active Low)
 DigitalOutput npnTransistor(11);        // NPN (Active High)
 
-![Alt text](diagram.PNG)
+![Wiring Diagram](diagram.PNG)
+
 
